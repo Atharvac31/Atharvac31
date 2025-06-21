@@ -3,7 +3,7 @@
 <h1 align="center">Hi there, I'm Atharva 👋</h1>
 
 <p align="center">
-  <em>Full-Stack Developer | ML Enthusiast | DevOps Explorer</em>
+  <em>Full-Stack Developer | ML Enthusiast </em>
 </p>
 
 ---
@@ -19,29 +19,7 @@ Currently diving deep into:
 
 ---
 
-## 🚀 Projects I'm Proud Of
 
-### 🧑‍💼 Smart Interview Assistant
-> AI-powered platform that simulates technical interviews with LLMs, performance analysis, and real-time feedback.
-
-- 🧠 Uses NLP & prompt engineering
-
-- Tech: React · Node.js · MongoDB · OpenAI API · 
-
-🔗 [GitHub Repo](https://github.com/Atharvac31/smart-interview-assistant)
-
----
-
-### 🎵 Spotify Clone
-> A full-stack clone of Spotify with user authentication, audio playback, and playlist management.
-
-- 🎧 Responsive UI inspired by Spotify
-- 🔐 JWT-based auth, RESTful backend
-- Tech: React · Node.js · MongoDB · HTML5 Audio API
-
-🔗 [GitHub Repo](https://github.com/Atharvac31/spotify-clone)
-
----
 
 ## 🛠️ Tech Stack
 
