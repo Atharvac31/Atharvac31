@@ -37,7 +37,7 @@ Currently diving deep into:
 ## 📫 Connect With Me
 
 - 📧 Email: chourikar31@gmail.com
-- 💼 LinkedIn: [linkedin.com/in/yourusername](https://linkedin.com/in/yourusername)
+- 💼 LinkedIn: [linkedin.com/in/atharva-chourikar](https://www.linkedin.com/in/atharva-chourikar-a1b33b24a/)
 
 
 ---
